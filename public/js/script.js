@@ -100,7 +100,7 @@ var Barchart = function(options){
 var myBarchart = new Barchart(
     {
         canvas:myCanvas,
-        seriesName:"Vinyl records",
+        seriesName:"RangoBot",
         padding:20,
         gridScale:5,
         gridColor:"#eeeeee",
